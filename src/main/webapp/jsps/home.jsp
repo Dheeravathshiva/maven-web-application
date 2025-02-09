@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to shiva Technologies Private Ltd. Ph No: +91-7893371646 Hyderabad,India</h1>
-<h1 align="center"> shiva Technologies- Very Good Training center for DevOps with AWS Admin & Azure DevOps ,Terraform & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center"> shiva Technologies- Very Good Training center for DevOps with AWS Admin & Terraform & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
